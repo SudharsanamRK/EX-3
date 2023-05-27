@@ -52,10 +52,8 @@ while True:
 
 
 # SERVER OUTPUT :
-![output](S1.png)
-# CLIENT OUTPUT :
-![output](C1.png)
-
+![WhatsApp Image 2023-05-27 at 15 27 30](https://github.com/SudharsanamRK/EX-3/assets/115523484/8a82ca8f-ed15-4113-bb77-132541f19705)# CLIENT OUTPUT :
+![WhatsApp Image 2023-05-27 at 15 27 38](https://github.com/SudharsanamRK/EX-3/assets/115523484/f9cc18a0-961d-4d3d-8e4e-ee3c85d00d34)
 
 
 # RESULT :
